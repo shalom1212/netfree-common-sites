@@ -297,6 +297,9 @@
 
     מפות בינג
     http://www.bing.com/maps/
+    
+    מפות simplex3d ארץ ישראל
+    http://simplex3d.co.il/
    
 %% עיריות
 
